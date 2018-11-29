@@ -6,7 +6,7 @@ public class Demo01 {
 		// TODO Auto-generated method stub
 		System.err.println("测定文件demo");
 		
-		System.err.println("github");
+		System.err.println("githubqq");
 	}
 
 }
